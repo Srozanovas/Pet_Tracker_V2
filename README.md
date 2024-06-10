@@ -7,9 +7,9 @@ Pet Tracker V2. Changes from V1:
     •Pushbutton for powering on (was slide switch to cut off power completely)
 
 
-#Changelog
+# Changelog
 
-##2024-06-10 v1   
+## 2024-06-10 v1   
     First version of tracker. Shield and main board redesigned, decreased size. 
 
 
